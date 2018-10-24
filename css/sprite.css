@@ -1,0 +1,10924 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.currency-icon {
+  background-image: url('../image/sprite.png');
+  margin: 0 auto;
+}
+.icon-007 {
+
+  background-position: -90px -132px;
+  width: 30px;
+  height: 30px;
+}
+.icon-1337 {
+
+  background-position: -870px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-1cr {
+
+  background-position: -420px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-1st {
+
+  background-position: -360px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-2015 {
+
+  background-position: -390px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-2bacco {
+
+  background-position: -450px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-2give {
+
+  background-position: -420px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-32bit {
+
+  background-position: -540px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-365 {
+
+  background-position: -480px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-3des {
+
+  background-position: -660px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-404 {
+
+  background-position: -810px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-42 {
+
+  background-position: -840px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-4chn {
+
+  background-position: -660px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-611 {
+
+  background-position: -240px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-808 {
+
+  background-position: -1020px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-888 {
+
+  background-position: -1110px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-8bit {
+
+  background-position: -750px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-8bt {
+
+  background-position: -330px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-8s {
+
+  background-position: -600px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-abc {
+
+  background-position: -120px -101px;
+  width: 30px;
+  height: 30px;
+}
+.icon-abt {
+
+  background-position: -150px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aby {
+
+  background-position: -150px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-abyss {
+
+  background-position: -150px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ac {
+
+  background-position: -150px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-acc {
+
+  background-position: 0px -132px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ace {
+
+  background-position: -30px -132px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aces {
+
+  background-position: -60px -132px;
+  width: 30px;
+  height: 30px;
+}
+.icon-acid {
+
+  background-position: -30px -70px;
+  width: 30px;
+  height: 31px;
+}
+.icon-acn {
+
+  background-position: -120px -132px;
+  width: 30px;
+  height: 30px;
+}
+.icon-acoin {
+
+  background-position: -150px -132px;
+  width: 30px;
+  height: 30px;
+}
+.icon-acp {
+
+  background-position: -180px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-act {
+
+  background-position: -180px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ada {
+
+  background-position: -180px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-adc {
+
+  background-position: -180px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-adcn {
+
+  background-position: -180px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-adl {
+
+  background-position: 0px -162px;
+  width: 30px;
+  height: 30px;
+}
+.icon-adn {
+
+  background-position: -30px -162px;
+  width: 30px;
+  height: 30px;
+}
+.icon-adst {
+
+  background-position: -60px -162px;
+  width: 30px;
+  height: 30px;
+}
+.icon-adt {
+
+  background-position: -90px -162px;
+  width: 30px;
+  height: 30px;
+}
+.icon-adx {
+
+  background-position: -120px -162px;
+  width: 30px;
+  height: 30px;
+}
+.icon-adz {
+
+  background-position: -150px -162px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ae {
+
+  background-position: -180px -162px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aec {
+
+  background-position: -210px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aeon {
+
+  background-position: -210px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aerm {
+
+  background-position: -210px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aero {
+
+  background-position: -210px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-agrs {
+
+  background-position: -210px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ags {
+
+  background-position: -900px -1242px;
+  width: 30px;
+  height: 28px;
+}
+.icon-aht-1 {
+
+  background-position: 0px -192px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aht {
+
+  background-position: -30px -192px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aib {
+
+  background-position: -60px -192px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aid {
+
+  background-position: -90px -192px;
+  width: 30px;
+  height: 30px;
+}
+.icon-air-1 {
+
+  background-position: -120px -192px;
+  width: 30px;
+  height: 30px;
+}
+.icon-air {
+
+  background-position: -150px -192px;
+  width: 30px;
+  height: 30px;
+}
+.icon-alc {
+
+  background-position: -180px -192px;
+  width: 30px;
+  height: 30px;
+}
+.icon-alex {
+
+  background-position: -210px -192px;
+  width: 30px;
+  height: 30px;
+}
+.icon-alf {
+
+  background-position: -60px -101px;
+  width: 30px;
+  height: 31px;
+}
+.icon-alis {
+
+  background-position: -240px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aln {
+
+  background-position: -1290px -48px;
+  width: 30px;
+  height: 24px;
+}
+.icon-alqo {
+
+  background-position: -240px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-altcom {
+
+  background-position: -240px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-altocar {
+
+  background-position: -240px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-am {
+
+  background-position: -240px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-amb {
+
+  background-position: 0px -222px;
+  width: 30px;
+  height: 30px;
+}
+.icon-amber {
+
+  background-position: -30px -222px;
+  width: 30px;
+  height: 30px;
+}
+.icon-amc {
+
+  background-position: -60px -222px;
+  width: 30px;
+  height: 30px;
+}
+.icon-amis {
+
+  background-position: -90px -222px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ammo {
+
+  background-position: -120px -222px;
+  width: 30px;
+  height: 30px;
+}
+.icon-amp {
+
+  background-position: -150px -222px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ams {
+
+  background-position: -180px -222px;
+  width: 30px;
+  height: 30px;
+}
+.icon-amt {
+
+  background-position: -210px -222px;
+  width: 30px;
+  height: 30px;
+}
+.icon-amy {
+
+  background-position: -240px -222px;
+  width: 30px;
+  height: 30px;
+}
+.icon-anal {
+
+  background-position: -270px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-anc {
+
+  background-position: -480px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-ancp {
+
+  background-position: -270px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-and {
+
+  background-position: -270px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-annc {
+
+  background-position: -510px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-ant {
+
+  background-position: -270px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-antc {
+
+  background-position: -270px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-anti {
+
+  background-position: -270px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-apc {
+
+  background-position: 0px -252px;
+  width: 30px;
+  height: 30px;
+}
+.icon-apex {
+
+  background-position: -30px -252px;
+  width: 30px;
+  height: 30px;
+}
+.icon-appc {
+
+  background-position: -60px -252px;
+  width: 30px;
+  height: 30px;
+}
+.icon-apt {
+
+  background-position: -90px -252px;
+  width: 30px;
+  height: 30px;
+}
+.icon-apx {
+
+  background-position: -120px -252px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ar-1 {
+
+  background-position: -150px -252px;
+  width: 30px;
+  height: 30px;
+}
+.icon-arb {
+
+  background-position: -180px -252px;
+  width: 30px;
+  height: 30px;
+}
+.icon-arbi {
+
+  background-position: -210px -252px;
+  width: 30px;
+  height: 30px;
+}
+.icon-arc {
+
+  background-position: -240px -252px;
+  width: 30px;
+  height: 30px;
+}
+.icon-arch {
+
+  background-position: -270px -252px;
+  width: 30px;
+  height: 30px;
+}
+.icon-arco {
+
+  background-position: -300px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ardr {
+
+  background-position: -300px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-arena {
+
+  background-position: -300px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-arg {
+
+  background-position: -300px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-argus {
+
+  background-position: -300px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ari-1 {
+
+  background-position: -300px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ari {
+
+  background-position: -870px -1242px;
+  width: 30px;
+  height: 28px;
+}
+.icon-ark {
+
+  background-position: -300px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-arm {
+
+  background-position: -300px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-arn {
+
+  background-position: 0px -282px;
+  width: 30px;
+  height: 30px;
+}
+.icon-arna-1 {
+
+  background-position: -30px -282px;
+  width: 30px;
+  height: 30px;
+}
+.icon-arpa {
+
+  background-position: -60px -282px;
+  width: 30px;
+  height: 30px;
+}
+.icon-art {
+
+  background-position: -90px -282px;
+  width: 30px;
+  height: 30px;
+}
+.icon-asafe2 {
+
+  background-position: -120px -282px;
+  width: 30px;
+  height: 30px;
+}
+.icon-asn {
+
+  background-position: -150px -282px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ast-1 {
+
+  background-position: -180px -282px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ast {
+
+  background-position: -210px -282px;
+  width: 30px;
+  height: 30px;
+}
+.icon-astro {
+
+  background-position: -240px -282px;
+  width: 30px;
+  height: 30px;
+}
+.icon-atb {
+
+  background-position: -270px -282px;
+  width: 30px;
+  height: 30px;
+}
+.icon-atcc {
+
+  background-position: -300px -282px;
+  width: 30px;
+  height: 30px;
+}
+.icon-atfs {
+
+  background-position: -330px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-atkn {
+
+  background-position: -330px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-atl {
+
+  background-position: -330px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-atm {
+
+  background-position: -330px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-atms {
+
+  background-position: -330px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-atom-1 {
+
+  background-position: -330px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-atom {
+
+  background-position: -330px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ats {
+
+  background-position: -330px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-atx {
+
+  background-position: -330px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aur {
+
+  background-position: -330px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aurs {
+
+  background-position: 0px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-aut {
+
+  background-position: -30px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-auth {
+
+  background-position: -60px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-av {
+
+  background-position: -90px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ava {
+
+  background-position: -120px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ave {
+
+  background-position: -150px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-avt {
+
+  background-position: -180px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-axiom {
+
+  background-position: -210px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-axr {
+
+  background-position: -240px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-axt {
+
+  background-position: -270px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-b@ {
+
+  background-position: -300px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-b3 {
+
+  background-position: -330px -312px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bac-1 {
+
+  background-position: -360px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bac {
+
+  background-position: -360px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bamitcoin {
+
+  background-position: -360px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ban {
+
+  background-position: -360px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bar {
+
+  background-position: -360px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bash {
+
+  background-position: -360px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bat {
+
+  background-position: -360px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bay {
+
+  background-position: -360px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bbcc {
+
+  background-position: -360px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bbr {
+
+  background-position: -30px -37px;
+  width: 30px;
+  height: 32px;
+}
+.icon-bbt {
+
+  background-position: -360px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bcap {
+
+  background-position: 0px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bccoin {
+
+  background-position: -30px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bcd {
+
+  background-position: -60px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bcf {
+
+  background-position: -90px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bch {
+
+  background-position: -120px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bcn {
+
+  background-position: -150px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bco {
+
+  background-position: -180px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bcpt {
+
+  background-position: -210px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bcr {
+
+  background-position: -240px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bcx {
+
+  background-position: -270px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bcy {
+
+  background-position: -300px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bdg {
+
+  background-position: -330px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bdl {
+
+  background-position: -360px -342px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bdr {
+
+  background-position: -390px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bela {
+
+  background-position: -390px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ben {
+
+  background-position: 0px 0px;
+  width: 30px;
+  height: 37px;
+}
+.icon-benji {
+
+  background-position: -390px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bern {
+
+  background-position: -390px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-best {
+
+  background-position: -390px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bet-1 {
+
+  background-position: -390px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bet {
+
+  background-position: -390px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bfx {
+
+  background-position: -390px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bhc-1 {
+
+  background-position: -390px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bhc {
+
+  background-position: -390px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bic {
+
+  background-position: -390px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bigup {
+
+  background-position: 0px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-biob {
+
+  background-position: -30px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bios {
+
+  background-position: -60px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bip {
+
+  background-position: -90px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bis {
+
+  background-position: -120px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bit16 {
+
+  background-position: -150px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bitb {
+
+  background-position: -60px -37px;
+  width: 30px;
+  height: 32px;
+}
+.icon-bitcny {
+
+  background-position: -210px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bitok {
+
+  background-position: -240px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bits {
+
+  background-position: -270px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bitsd {
+
+  background-position: -300px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bitusd {
+
+  background-position: -330px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bitz {
+
+  background-position: -360px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bkx {
+
+  background-position: -390px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-blas {
+
+  background-position: -420px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-blazr {
+
+  background-position: -420px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-blc {
+
+  background-position: -1290px -206px;
+  width: 30px;
+  height: 12px;
+}
+.icon-blitz {
+
+  background-position: -420px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-blk {
+
+  background-position: -570px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-block {
+
+  background-position: -420px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-blockpay {
+
+  background-position: -420px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-blry {
+
+  background-position: -420px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-blu {
+
+  background-position: 0px -101px;
+  width: 30px;
+  height: 31px;
+}
+.icon-blue {
+
+  background-position: -420px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-blx {
+
+  background-position: -420px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bm-1 {
+
+  background-position: -420px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bm {
+
+  background-position: -420px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bmc {
+
+  background-position: 0px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bmxt {
+
+  background-position: -30px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bnb-1 {
+
+  background-position: -60px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bnb {
+
+  background-position: -90px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bnc {
+
+  background-position: -120px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bnk {
+
+  background-position: -150px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bnt {
+
+  background-position: -180px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bnx {
+
+  background-position: -210px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-boat {
+
+  background-position: -240px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bob {
+
+  background-position: -270px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bog {
+
+  background-position: -300px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-boli {
+
+  background-position: -330px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bomb {
+
+  background-position: -360px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bon {
+
+  background-position: -390px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-boom {
+
+  background-position: -420px -402px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bos {
+
+  background-position: -450px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-boson {
+
+  background-position: -450px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-boss {
+
+  background-position: -450px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bost {
+
+  background-position: -450px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bots {
+
+  background-position: -450px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bou {
+
+  background-position: -450px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bpl {
+
+  background-position: -450px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bq {
+
+  background-position: -450px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bqc {
+
+  background-position: -450px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bqx {
+
+  background-position: -450px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-brain {
+
+  background-position: -450px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-brat {
+
+  background-position: -450px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-brdd {
+
+  background-position: -450px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-brit {
+
+  background-position: -450px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-brk {
+
+  background-position: 0px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bro {
+
+  background-position: -30px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-brx {
+
+  background-position: -60px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bs {
+
+  background-position: -90px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bsc {
+
+  background-position: -120px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bsd {
+
+  background-position: -150px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bst {
+
+  background-position: -180px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bstar {
+
+  background-position: -210px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bstk {
+
+  background-position: -240px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bsty {
+
+  background-position: -270px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bt {
+
+  background-position: -300px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bt1 {
+
+  background-position: -330px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bt2 {
+
+  background-position: -360px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bta {
+
+  background-position: -390px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btb {
+
+  background-position: -420px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btc {
+
+  background-position: -450px -432px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btcd {
+
+  background-position: -480px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btcl {
+
+  background-position: -480px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btcr {
+
+  background-position: -480px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btcred {
+
+  background-position: -480px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btcry {
+
+  background-position: -480px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btcs {
+
+  background-position: -480px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btcz {
+
+  background-position: -480px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btd {
+
+  background-position: -480px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btdx {
+
+  background-position: -480px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bte {
+
+  background-position: -480px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btg {
+
+  background-position: -480px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btlc {
+
+  background-position: -480px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btm-1 {
+
+  background-position: -480px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btm {
+
+  background-position: -480px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btmi {
+
+  background-position: -480px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btpl {
+
+  background-position: 0px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btq {
+
+  background-position: -30px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bts {
+
+  background-position: -60px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bttf {
+
+  background-position: -90px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btx-1 {
+
+  background-position: -120px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btx {
+
+  background-position: -150px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-btz {
+
+  background-position: -180px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bucks-1 {
+
+  background-position: -210px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bucks {
+
+  background-position: -240px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-buk {
+
+  background-position: -270px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bulls {
+
+  background-position: -300px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-burst {
+
+  background-position: -330px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-buzz {
+
+  background-position: -360px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bvc {
+
+  background-position: -390px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bxc {
+
+  background-position: -420px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-bxt {
+
+  background-position: -450px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-byc {
+
+  background-position: -480px -462px;
+  width: 30px;
+  height: 30px;
+}
+.icon-c2 {
+
+  background-position: -510px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-c20 {
+
+  background-position: -510px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cab {
+
+  background-position: -510px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cabs {
+
+  background-position: -510px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cach {
+
+  background-position: -510px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cag {
+
+  background-position: -510px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-caix {
+
+  background-position: -510px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-calc {
+
+  background-position: -510px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cam {
+
+  background-position: -660px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-cann {
+
+  background-position: -510px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cap {
+
+  background-position: -510px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-capp {
+
+  background-position: -510px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-carbon {
+
+  background-position: -510px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cas {
+
+  background-position: -510px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cash-1 {
+
+  background-position: -510px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cash {
+
+  background-position: -510px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cat {
+
+  background-position: 0px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cav {
+
+  background-position: -30px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cbd {
+
+  background-position: -60px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cbx {
+
+  background-position: -90px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cc {
+
+  background-position: -1290px -24px;
+  width: 30px;
+  height: 24px;
+}
+.icon-ccc {
+
+  background-position: -150px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ccn {
+
+  background-position: -180px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ccrb {
+
+  background-position: -210px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cct-1 {
+
+  background-position: -240px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ccx {
+
+  background-position: -270px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cdn {
+
+  background-position: -300px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cdt {
+
+  background-position: -330px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cdx {
+
+  background-position: -360px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cell {
+
+  background-position: -390px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cesc {
+
+  background-position: -420px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ceti {
+
+  background-position: -450px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cf {
+
+  background-position: -480px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cfc {
+
+  background-position: -510px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cfd {
+
+  background-position: -540px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cfi {
+
+  background-position: -540px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cft-1 {
+
+  background-position: -540px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cft {
+
+  background-position: -540px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cga {
+
+  background-position: -540px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cha {
+
+  background-position: -30px -101px;
+  width: 30px;
+  height: 31px;
+}
+.icon-chao {
+
+  background-position: -540px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-chash {
+
+  background-position: -540px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-chat {
+
+  background-position: -540px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-chc {
+
+  background-position: -540px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-chess {
+
+  background-position: -540px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-chief {
+
+  background-position: -540px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-child {
+
+  background-position: -1230px -1242px;
+  width: 30px;
+  height: 24px;
+}
+.icon-chip {
+
+  background-position: -540px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-choof {
+
+  background-position: -540px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cin {
+
+  background-position: -540px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cinni {
+
+  background-position: -540px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cir {
+
+  background-position: 0px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-circ {
+
+  background-position: -30px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cix {
+
+  background-position: -60px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cj {
+
+  background-position: -90px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cjc {
+
+  background-position: -120px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cjt {
+
+  background-position: -150px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ckc {
+
+  background-position: -180px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-clam {
+
+  background-position: -210px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cld {
+
+  background-position: -240px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-click {
+
+  background-position: -270px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-clint {
+
+  background-position: -300px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cloak {
+
+  background-position: -330px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-clout {
+
+  background-position: -360px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-clr {
+
+  background-position: -390px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-club {
+
+  background-position: -420px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-clud {
+
+  background-position: -450px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-clv {
+
+  background-position: -480px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cmc {
+
+  background-position: -510px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cmp {
+
+  background-position: -540px -522px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cmpco {
+
+  background-position: -570px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cms {
+
+  background-position: -570px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cmt {
+
+  background-position: -570px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cnc {
+
+  background-position: -570px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cnd-1 {
+
+  background-position: -570px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cnd {
+
+  background-position: -570px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cnl {
+
+  background-position: -570px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cnmt {
+
+  background-position: -570px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cno {
+
+  background-position: -570px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cnt {
+
+  background-position: -570px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cnx {
+
+  background-position: -570px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cob {
+
+  background-position: -570px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-coc {
+
+  background-position: -570px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-coe {
+
+  background-position: -570px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-coin-1 {
+
+  background-position: -570px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-coin {
+
+  background-position: -570px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-colx {
+
+  background-position: -570px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-comm {
+
+  background-position: -570px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cool {
+
+  background-position: 0px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cor {
+
+  background-position: -30px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-coral {
+
+  background-position: -60px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-core {
+
+  background-position: -90px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-coss {
+
+  background-position: -120px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cov-1 {
+
+  background-position: -150px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cov {
+
+  background-position: -180px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-coval {
+
+  background-position: -210px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cox {
+
+  background-position: -240px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cpay {
+
+  background-position: -270px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cpc {
+
+  background-position: -300px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cqst {
+
+  background-position: -330px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crab {
+
+  background-position: -360px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crack {
+
+  background-position: -390px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-craft {
+
+  background-position: -420px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-craig {
+
+  background-position: -690px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-crave {
+
+  background-position: -480px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crb {
+
+  background-position: -510px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crc {
+
+  background-position: -540px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crds {
+
+  background-position: -570px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cre {
+
+  background-position: -600px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crea {
+
+  background-position: -600px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-credo {
+
+  background-position: -600px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-creva {
+
+  background-position: -600px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crm {
+
+  background-position: -600px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crnk {
+
+  background-position: -600px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crps {
+
+  background-position: -600px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crtm {
+
+  background-position: -600px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crw {
+
+  background-position: -600px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crx {
+
+  background-position: -600px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-crypt {
+
+  background-position: -600px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cs {
+
+  background-position: -600px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-csc {
+
+  background-position: -600px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-csh {
+
+  background-position: -600px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-csmic {
+
+  background-position: -600px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-csno {
+
+  background-position: -600px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cstl {
+
+  background-position: -600px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ctc {
+
+  background-position: -600px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ctic {
+
+  background-position: -600px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cto {
+
+  background-position: 0px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ctr {
+
+  background-position: -30px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ctt {
+
+  background-position: -60px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ctx {
+
+  background-position: -90px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cube {
+
+  background-position: -120px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cure {
+
+  background-position: -150px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cvc {
+
+  background-position: -180px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cvcoin {
+
+  background-position: -210px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cwxt {
+
+  background-position: -240px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cxc {
+
+  background-position: -270px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cxt {
+
+  background-position: -300px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cyc {
+
+  background-position: -330px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cyg {
+
+  background-position: -360px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cyp {
+
+  background-position: -390px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-cyt {
+
+  background-position: -420px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-czc {
+
+  background-position: -450px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dank {
+
+  background-position: -480px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dar {
+
+  background-position: -510px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dark {
+
+  background-position: -540px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-das {
+
+  background-position: -570px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dash {
+
+  background-position: -600px -582px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dat {
+
+  background-position: -630px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-data {
+
+  background-position: -630px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-day {
+
+  background-position: -630px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-db {
+
+  background-position: -630px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dbet {
+
+  background-position: -630px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dbg {
+
+  background-position: -630px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dbic {
+
+  background-position: -630px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dbix {
+
+  background-position: -630px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dbr {
+
+  background-position: -630px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dbtc {
+
+  background-position: -630px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dcc {
+
+  background-position: -630px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dck {
+
+  background-position: -630px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dcn {
+
+  background-position: -630px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dcr {
+
+  background-position: -630px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dcre {
+
+  background-position: -720px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-dcs. {
+
+  background-position: -630px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dct {
+
+  background-position: -630px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dcy {
+
+  background-position: -630px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ddf {
+
+  background-position: -630px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dea {
+
+  background-position: -630px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-deb {
+
+  background-position: 0px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-deep {
+
+  background-position: -30px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dem {
+
+  background-position: -60px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dent {
+
+  background-position: -90px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-des {
+
+  background-position: -120px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-deth {
+
+  background-position: -150px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-deur {
+
+  background-position: -180px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dfbt {
+
+  background-position: -210px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dft {
+
+  background-position: -240px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dgb {
+
+  background-position: -270px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dgc {
+
+  background-position: -300px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dgd {
+
+  background-position: -330px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dgdc {
+
+  background-position: -360px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dgms {
+
+  background-position: -390px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dgore {
+
+  background-position: -420px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dgpt {
+
+  background-position: -450px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dice {
+
+  background-position: -480px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-diem {
+
+  background-position: -510px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-digs {
+
+  background-position: -540px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dim {
+
+  background-position: -570px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dime {
+
+  background-position: -600px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-disk {
+
+  background-position: -630px -612px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dkc {
+
+  background-position: -660px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dlc {
+
+  background-position: -660px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dlisk {
+
+  background-position: -660px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dlr {
+
+  background-position: -660px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dlt {
+
+  background-position: -660px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dmd {
+
+  background-position: -660px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dmt {
+
+  background-position: -660px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dna {
+
+  background-position: -660px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dnet {
+
+  background-position: -660px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dnr {
+
+  background-position: -660px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dnt {
+
+  background-position: -660px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-doge {
+
+  background-position: -660px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-doged {
+
+  background-position: -660px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dogeth {
+
+  background-position: -660px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-don {
+
+  background-position: -660px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dope {
+
+  background-position: -660px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dot {
+
+  background-position: -660px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dovu {
+
+  background-position: -660px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dp {
+
+  background-position: -660px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dpay {
+
+  background-position: -660px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dra {
+
+  background-position: -660px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-draco {
+
+  background-position: 0px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-drc {
+
+  background-position: -30px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-drgn {
+
+  background-position: -60px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-drkc {
+
+  background-position: -90px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-drkt {
+
+  background-position: -120px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-drm8 {
+
+  background-position: -150px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-drop {
+
+  background-position: -180px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-drp {
+
+  background-position: -210px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-drs {
+
+  background-position: -240px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-drt {
+
+  background-position: -270px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-drxne {
+
+  background-position: -300px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-drz {
+
+  background-position: -330px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dsb {
+
+  background-position: -360px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dsh {
+
+  background-position: -390px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dt {
+
+  background-position: -420px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dtb {
+
+  background-position: -450px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dtc-1 {
+
+  background-position: -30px 0px;
+  width: 30px;
+  height: 36px;
+}
+.icon-dtc {
+
+  background-position: -510px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dtct {
+
+  background-position: -540px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dtr {
+
+  background-position: -570px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dtt-1 {
+
+  background-position: -600px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dtt {
+
+  background-position: -630px -642px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dub {
+
+  background-position: 0px -70px;
+  width: 30px;
+  height: 31px;
+}
+.icon-duck {
+
+  background-position: -690px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-duo {
+
+  background-position: -690px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dutch {
+
+  background-position: -690px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dux {
+
+  background-position: -690px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dvc {
+
+  background-position: -690px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-dyn {
+
+  background-position: -690px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ea {
+
+  background-position: -690px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eac {
+
+  background-position: -690px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eags {
+
+  background-position: -690px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-earth {
+
+  background-position: -690px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eb3 {
+
+  background-position: -690px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ebch {
+
+  background-position: -690px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ebet {
+
+  background-position: -690px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ebs {
+
+  background-position: -690px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ebst {
+
+  background-position: -690px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ebtc {
+
+  background-position: -690px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ebz {
+
+  background-position: -690px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ec {
+
+  background-position: -690px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eca {
+
+  background-position: -690px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ecash {
+
+  background-position: -690px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ecc {
+
+  background-position: -690px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-echt {
+
+  background-position: -690px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eco {
+
+  background-position: 0px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ecob {
+
+  background-position: -30px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-edc {
+
+  background-position: -60px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eddie {
+
+  background-position: -90px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-edg {
+
+  background-position: -120px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-edge {
+
+  background-position: -150px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-edo {
+
+  background-position: -180px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-edr {
+
+  background-position: -210px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-edrc {
+
+  background-position: -240px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-efl {
+
+  background-position: -270px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-efyt {
+
+  background-position: -300px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-egc {
+
+  background-position: -330px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-egg {
+
+  background-position: -360px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ego {
+
+  background-position: -390px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ekn {
+
+  background-position: -1290px -185px;
+  width: 30px;
+  height: 21px;
+}
+.icon-eko {
+
+  background-position: -450px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-elc {
+
+  background-position: -480px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ele {
+
+  background-position: -510px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-elite {
+
+  background-position: -540px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-elix {
+
+  background-position: -570px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ella {
+
+  background-position: -600px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-elm {
+
+  background-position: -630px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-els {
+
+  background-position: -660px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-elt {
+
+  background-position: -690px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eltc2 {
+
+  background-position: -720px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-emb {
+
+  background-position: -720px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-emc {
+
+  background-position: -720px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-emc2 {
+
+  background-position: -750px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-emd {
+
+  background-position: -720px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-emigr {
+
+  background-position: -720px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-empc {
+
+  background-position: -720px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-emt {
+
+  background-position: -720px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ene {
+
+  background-position: -720px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eng {
+
+  background-position: -720px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-enj {
+
+  background-position: -720px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-enrg {
+
+  background-position: -720px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ent {
+
+  background-position: -720px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-enter {
+
+  background-position: -720px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-env {
+
+  background-position: -720px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eoc {
+
+  background-position: -720px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eon {
+
+  background-position: -720px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eos {
+
+  background-position: -720px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-epy-1 {
+
+  background-position: -720px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-epy {
+
+  background-position: -720px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eq {
+
+  background-position: -720px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eqb {
+
+  background-position: -720px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eqm {
+
+  background-position: -720px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eqt {
+
+  background-position: 0px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-equal {
+
+  background-position: -30px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-erb {
+
+  background-position: -60px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-erc {
+
+  background-position: -90px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-err {
+
+  background-position: -120px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ert {
+
+  background-position: -150px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ery {
+
+  background-position: -180px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-esc-1 {
+
+  background-position: -210px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-esp {
+
+  background-position: -240px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-etbs {
+
+  background-position: -270px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-etc {
+
+  background-position: -300px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-etg {
+
+  background-position: -330px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eth {
+
+  background-position: -360px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ethb {
+
+  background-position: -390px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ethd {
+
+  background-position: -420px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-eths {
+
+  background-position: -450px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-etk {
+
+  background-position: -480px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-etn {
+
+  background-position: -510px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-etp {
+
+  background-position: -540px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ett {
+
+  background-position: -570px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-euc {
+
+  background-position: -600px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-evc {
+
+  background-position: -630px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-event {
+
+  background-position: -660px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-evil {
+
+  background-position: -690px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-evr {
+
+  background-position: -720px -702px;
+  width: 30px;
+  height: 30px;
+}
+.icon-evx {
+
+  background-position: -750px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-exb {
+
+  background-position: -750px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-excl {
+
+  background-position: -750px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-exe {
+
+  background-position: -750px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-exit {
+
+  background-position: -750px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-exn {
+
+  background-position: -750px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-exp {
+
+  background-position: -750px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-exy {
+
+  background-position: -750px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ezc {
+
+  background-position: -750px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ezm {
+
+  background-position: -750px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-f16 {
+
+  background-position: -750px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fair {
+
+  background-position: -750px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fame {
+
+  background-position: -750px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fazz {
+
+  background-position: -750px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fc {
+
+  background-position: -750px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fc2 {
+
+  background-position: -750px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fcn {
+
+  background-position: -750px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fcs {
+
+  background-position: -750px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fct {
+
+  background-position: -750px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fdc {
+
+  background-position: -750px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ffc {
+
+  background-position: -750px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fgz {
+
+  background-position: -750px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fibre {
+
+  background-position: -750px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fil {
+
+  background-position: -750px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-find {
+
+  background-position: 0px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fire {
+
+  background-position: -30px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-first {
+
+  background-position: -60px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fist {
+
+  background-position: -90px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fit {
+
+  background-position: -120px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fjc {
+
+  background-position: -150px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-flap {
+
+  background-position: -180px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-flash {
+
+  background-position: -210px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fldc {
+
+  background-position: -240px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-flik {
+
+  background-position: -270px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-flixx {
+
+  background-position: -300px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fllw {
+
+  background-position: -330px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-flo {
+
+  background-position: -360px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-flp {
+
+  background-position: -390px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-flt {
+
+  background-position: -420px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-flvr {
+
+  background-position: -450px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-flx {
+
+  background-position: -480px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fly {
+
+  background-position: -510px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fnd {
+
+  background-position: -540px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fonz {
+
+  background-position: -570px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-food {
+
+  background-position: -600px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-forex {
+
+  background-position: -630px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-frac {
+
+  background-position: -660px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fraz {
+
+  background-position: -690px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-frc {
+
+  background-position: -720px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fre {
+
+  background-position: -750px -732px;
+  width: 30px;
+  height: 30px;
+}
+.icon-frk {
+
+  background-position: -780px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-frn {
+
+  background-position: -780px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-frst {
+
+  background-position: -780px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-frwc {
+
+  background-position: -780px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fsc2 {
+
+  background-position: -780px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fsn {
+
+  background-position: -780px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fst {
+
+  background-position: -780px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ftc {
+
+  background-position: -780px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ftp {
+
+  background-position: -780px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fuck {
+
+  background-position: -780px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fuel {
+
+  background-position: -780px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fun {
+
+  background-position: -780px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-func {
+
+  background-position: -780px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-futc {
+
+  background-position: -780px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fuzz {
+
+  background-position: -780px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fx {
+
+  background-position: -780px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-fyn {
+
+  background-position: -780px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gaia {
+
+  background-position: -780px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gakh {
+
+  background-position: -780px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gam {
+
+  background-position: -780px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-game {
+
+  background-position: -780px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gap {
+
+  background-position: -780px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gas {
+
+  background-position: -780px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gat {
+
+  background-position: -780px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gay {
+
+  background-position: -780px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gb {
+
+  background-position: 0px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gbit {
+
+  background-position: -30px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gbrc {
+
+  background-position: -60px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gbt {
+
+  background-position: -90px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gbx {
+
+  background-position: -120px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gbyte {
+
+  background-position: -150px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gcc {
+
+  background-position: -180px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gcn {
+
+  background-position: -210px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gcr {
+
+  background-position: -240px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gdc {
+
+  background-position: -270px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gea {
+
+  background-position: -300px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gemz {
+
+  background-position: -330px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gen {
+
+  background-position: -360px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-geo {
+
+  background-position: -390px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ges {
+
+  background-position: -420px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gft {
+
+  background-position: -450px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ggs {
+
+  background-position: -480px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ghc {
+
+  background-position: -510px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ghoul {
+
+  background-position: -540px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ghs {
+
+  background-position: -570px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gift {
+
+  background-position: -600px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gig {
+
+  background-position: -630px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gim {
+
+  background-position: -660px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-give {
+
+  background-position: -690px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-giz {
+
+  background-position: -720px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gjc {
+
+  background-position: -750px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gla {
+
+  background-position: -780px -762px;
+  width: 30px;
+  height: 30px;
+}
+.icon-glc {
+
+  background-position: -810px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gld {
+
+  background-position: -810px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-globe {
+
+  background-position: -810px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-glx {
+
+  background-position: -810px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-glyph {
+
+  background-position: -810px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gmc {
+
+  background-position: -810px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gml {
+
+  background-position: -60px -70px;
+  width: 30px;
+  height: 31px;
+}
+.icon-gmt {
+
+  background-position: -810px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gmx {
+
+  background-position: -810px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gnj {
+
+  background-position: -810px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gno {
+
+  background-position: -810px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gnt {
+
+  background-position: -810px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-goat {
+
+  background-position: -810px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-golos {
+
+  background-position: -810px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-good {
+
+  background-position: -810px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-goon {
+
+  background-position: -810px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-got {
+
+  background-position: -810px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gotx {
+
+  background-position: -810px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gp {
+
+  background-position: -810px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gpl {
+
+  background-position: -810px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gpu {
+
+  background-position: -810px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gram {
+
+  background-position: -810px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grav {
+
+  background-position: -810px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grc {
+
+  background-position: -810px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gre {
+
+  background-position: -810px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grexit {
+
+  background-position: -810px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grf {
+
+  background-position: 0px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grid-1 {
+
+  background-position: -30px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grid {
+
+  background-position: -60px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grm {
+
+  background-position: -90px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grow {
+
+  background-position: -120px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grs {
+
+  background-position: -150px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grt {
+
+  background-position: -180px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grw {
+
+  background-position: -210px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-grwi {
+
+  background-position: -240px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gsm {
+
+  background-position: -270px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gsx {
+
+  background-position: -300px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gsy {
+
+  background-position: -330px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gue {
+
+  background-position: -360px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-guess {
+
+  background-position: -390px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-guns {
+
+  background-position: -420px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gup {
+
+  background-position: -450px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gvt {
+
+  background-position: -480px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gxc-1 {
+
+  background-position: -510px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-gxc {
+
+  background-position: -540px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-h2o {
+
+  background-position: -570px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hac {
+
+  background-position: -600px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hal {
+
+  background-position: -630px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hallo {
+
+  background-position: -660px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hams {
+
+  background-position: -690px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-haze {
+
+  background-position: -720px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hbn {
+
+  background-position: -750px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hbt {
+
+  background-position: -780px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hcc {
+
+  background-position: -810px -792px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hdg {
+
+  background-position: -840px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-heat {
+
+  background-position: -840px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hedg {
+
+  background-position: -840px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-heel {
+
+  background-position: -840px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hgt {
+
+  background-position: -840px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hill {
+
+  background-position: -840px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hire-1 {
+
+  background-position: -840px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hire {
+
+  background-position: -840px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hkg {
+
+  background-position: -840px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hmp {
+
+  background-position: -840px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hmq {
+
+  background-position: -840px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hnc-1 {
+
+  background-position: -840px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hnc {
+
+  background-position: -780px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-hodl {
+
+  background-position: -840px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hold {
+
+  background-position: -840px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-honey {
+
+  background-position: -840px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hpc {
+
+  background-position: -840px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hrb {
+
+  background-position: -840px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hsp {
+
+  background-position: -840px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hsr {
+
+  background-position: -840px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hst {
+
+  background-position: -840px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-htc {
+
+  background-position: -840px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-html5 {
+
+  background-position: -840px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-huc {
+
+  background-position: -840px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-huge {
+
+  background-position: -90px -70px;
+  width: 30px;
+  height: 31px;
+}
+.icon-hush {
+
+  background-position: -840px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hvc {
+
+  background-position: -840px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hvco {
+
+  background-position: 0px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hvn {
+
+  background-position: -30px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hxt {
+
+  background-position: -60px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hxx {
+
+  background-position: -90px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hyp {
+
+  background-position: -120px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hyper {
+
+  background-position: -150px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hz {
+
+  background-position: -180px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-hzt {
+
+  background-position: -210px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-i0c {
+
+  background-position: -240px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ibank {
+
+  background-position: -270px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-icash {
+
+  background-position: -1290px -141px;
+  width: 30px;
+  height: 22px;
+}
+.icon-icb {
+
+  background-position: -930px -1242px;
+  width: 30px;
+  height: 28px;
+}
+.icon-icc {
+
+  background-position: -360px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ice {
+
+  background-position: -390px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-icn {
+
+  background-position: -420px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-icob {
+
+  background-position: -450px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-icon {
+
+  background-position: -480px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-icoo {
+
+  background-position: -510px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-icos {
+
+  background-position: -540px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-icx {
+
+  background-position: -570px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-iec {
+
+  background-position: -600px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ifc {
+
+  background-position: -630px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-iflt {
+
+  background-position: -660px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ift {
+
+  background-position: -690px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ignis {
+
+  background-position: -720px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ilc {
+
+  background-position: -750px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ilct {
+
+  background-position: -780px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-iml {
+
+  background-position: -810px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-impch {
+
+  background-position: -840px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-imps {
+
+  background-position: -870px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ims {
+
+  background-position: -870px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-imx {
+
+  background-position: -870px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-in {
+
+  background-position: -870px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-inc {
+
+  background-position: -870px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-incnt {
+
+  background-position: -870px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-incp {
+
+  background-position: -870px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ind {
+
+  background-position: -870px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-indi {
+
+  background-position: -870px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-inf8 {
+
+  background-position: -870px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-infx {
+
+  background-position: -870px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-inn {
+
+  background-position: -870px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-inpay {
+
+  background-position: -870px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ins {
+
+  background-position: -870px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-insane {
+
+  background-position: -870px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-insn {
+
+  background-position: -870px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-inv {
+
+  background-position: -870px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-inxt {
+
+  background-position: -870px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ioc {
+
+  background-position: -870px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ion {
+
+  background-position: -870px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-iop {
+
+  background-position: -870px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-iot {
+
+  background-position: -870px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-iou {
+
+  background-position: -870px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ipc {
+
+  background-position: -870px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-isl {
+
+  background-position: -870px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-itt {
+
+  background-position: -90px -101px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ivz {
+
+  background-position: -870px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-iw {
+
+  background-position: -870px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-iwt {
+
+  background-position: 0px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ixc {
+
+  background-position: -30px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ixt {
+
+  background-position: -60px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-j {
+
+  background-position: -90px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jane {
+
+  background-position: -120px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jbs {
+
+  background-position: -150px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jcr {
+
+  background-position: -180px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jdc {
+
+  background-position: -210px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jif {
+
+  background-position: -240px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jio {
+
+  background-position: -270px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jkc {
+
+  background-position: -300px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jns {
+
+  background-position: -330px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jnt {
+
+  background-position: -360px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jobs {
+
+  background-position: -390px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jok {
+
+  background-position: -420px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jpc-1 {
+
+  background-position: -450px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jpc {
+
+  background-position: -480px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-judge {
+
+  background-position: -510px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jvy {
+
+  background-position: -540px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-jwl {
+
+  background-position: -570px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kapu {
+
+  background-position: -600px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-karm {
+
+  background-position: -630px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kat {
+
+  background-position: -660px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kayi {
+
+  background-position: -690px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kc {
+
+  background-position: -720px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kcn {
+
+  background-position: -750px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kcs {
+
+  background-position: -780px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kdc {
+
+  background-position: -810px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ked {
+
+  background-position: -840px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kek {
+
+  background-position: -870px -852px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kex {
+
+  background-position: -900px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-key {
+
+  background-position: -900px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kgc {
+
+  background-position: -900px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kick {
+
+  background-position: -900px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kin {
+
+  background-position: -900px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-king {
+
+  background-position: -900px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-klc {
+
+  background-position: -900px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kmd {
+
+  background-position: -900px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-knc-1 {
+
+  background-position: -900px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-knc {
+
+  background-position: -900px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kobo {
+
+  background-position: -900px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kolion {
+
+  background-position: -900px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kore {
+
+  background-position: -900px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kr {
+
+  background-position: -900px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-krak {
+
+  background-position: -900px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-krb {
+
+  background-position: -900px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-krc {
+
+  background-position: -900px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-krone {
+
+  background-position: -900px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ktk {
+
+  background-position: -900px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kubo {
+
+  background-position: -900px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kurt {
+
+  background-position: -900px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-kush {
+
+  background-position: -900px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-la {
+
+  background-position: -900px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lab {
+
+  background-position: -900px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lana {
+
+  background-position: -900px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lat {
+
+  background-position: -900px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-laz {
+
+  background-position: -900px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lbc {
+
+  background-position: -900px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lbtc {
+
+  background-position: -900px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lc {
+
+  background-position: 0px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lcash {
+
+  background-position: -30px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ldm {
+
+  background-position: -60px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ldoge {
+
+  background-position: -90px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lea {
+
+  background-position: -120px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lemon {
+
+  background-position: -150px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lend {
+
+  background-position: -180px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lenin {
+
+  background-position: -210px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-leo {
+
+  background-position: -240px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lepen {
+
+  background-position: -270px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lev {
+
+  background-position: -300px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lfc {
+
+  background-position: -330px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lgbtq {
+
+  background-position: -360px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lgd-1 {
+
+  background-position: -390px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lgd {
+
+  background-position: -420px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-life {
+
+  background-position: -450px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-limx {
+
+  background-position: -480px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-linda {
+
+  background-position: -510px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-link {
+
+  background-position: -540px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-linx {
+
+  background-position: -570px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lir {
+
+  background-position: -600px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-liv {
+
+  background-position: -630px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lk7 {
+
+  background-position: -90px 0px;
+  width: 30px;
+  height: 32px;
+}
+.icon-lkk {
+
+  background-position: -690px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lky {
+
+  background-position: -720px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lmc {
+
+  background-position: -750px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lnk {
+
+  background-position: -780px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-loc {
+
+  background-position: -810px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-loci {
+
+  background-position: -840px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-log {
+
+  background-position: -870px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-look {
+
+  background-position: -900px -882px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lqd {
+
+  background-position: -930px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lrc {
+
+  background-position: -930px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lsd {
+
+  background-position: -930px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lsk {
+
+  background-position: -930px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lta {
+
+  background-position: -930px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ltb {
+
+  background-position: -930px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ltbc {
+
+  background-position: -930px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ltc {
+
+  background-position: -930px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ltcd {
+
+  background-position: -930px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ltcr {
+
+  background-position: -930px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ltcx {
+
+  background-position: -930px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ltd {
+
+  background-position: -930px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ltg {
+
+  background-position: -930px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lth {
+
+  background-position: -930px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lts {
+
+  background-position: -930px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lucky {
+
+  background-position: -930px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lun {
+
+  background-position: -930px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lux-1 {
+
+  background-position: -930px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lux {
+
+  background-position: -930px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lvg {
+
+  background-position: -930px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lxc {
+
+  background-position: -930px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lyb {
+
+  background-position: -930px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-lyc {
+
+  background-position: -930px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-m1 {
+
+  background-position: -930px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mac {
+
+  background-position: -930px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mad {
+
+  background-position: -930px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mag {
+
+  background-position: -930px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-maid {
+
+  background-position: -930px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mana {
+
+  background-position: -930px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mapc {
+
+  background-position: -930px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mar {
+
+  background-position: 0px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mars {
+
+  background-position: -30px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-marv {
+
+  background-position: -60px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-marx {
+
+  background-position: -90px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-maryj {
+
+  background-position: -120px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mass {
+
+  background-position: -150px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mat-1 {
+
+  background-position: -180px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mat {
+
+  background-position: -210px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-max {
+
+  background-position: -120px -31px;
+  width: 30px;
+  height: 31px;
+}
+.icon-may {
+
+  background-position: -270px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mbi {
+
+  background-position: -300px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mbit {
+
+  background-position: -330px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mbrs {
+
+  background-position: -360px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mbt {
+
+  background-position: -390px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mc {
+
+  background-position: -420px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mcap {
+
+  background-position: -450px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mcar {
+
+  background-position: -480px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mci {
+
+  background-position: -510px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mcn {
+
+  background-position: -540px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mco {
+
+  background-position: -570px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mcrn {
+
+  background-position: -600px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mda {
+
+  background-position: -630px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mdc-1 {
+
+  background-position: -660px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mdc {
+
+  background-position: -690px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mdl {
+
+  background-position: -720px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mdt {
+
+  background-position: -750px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mec {
+
+  background-position: -780px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-med {
+
+  background-position: -810px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-medi {
+
+  background-position: -840px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mega {
+
+  background-position: -870px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-meme {
+
+  background-position: -900px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mer {
+
+  background-position: -930px -912px;
+  width: 30px;
+  height: 30px;
+}
+.icon-met {
+
+  background-position: -960px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-metal {
+
+  background-position: -960px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mg {
+
+  background-position: -960px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mgo {
+
+  background-position: -960px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mi {
+
+  background-position: -960px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mil {
+
+  background-position: -960px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-milo {
+
+  background-position: -960px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-min {
+
+  background-position: -1020px -1242px;
+  width: 30px;
+  height: 27px;
+}
+.icon-mine {
+
+  background-position: -960px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-minex {
+
+  background-position: -960px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mint {
+
+  background-position: -960px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mis {
+
+  background-position: -960px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-miv {
+
+  background-position: -960px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mkr {
+
+  background-position: -960px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mlite {
+
+  background-position: -960px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mln {
+
+  background-position: -960px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mls {
+
+  background-position: -960px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mm {
+
+  background-position: -960px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mmc {
+
+  background-position: -960px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mmnxt {
+
+  background-position: -960px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mmxiv {
+
+  background-position: -960px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mmxvi {
+
+  background-position: -960px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mn {
+
+  background-position: -960px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mnc {
+
+  background-position: -960px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mnd {
+
+  background-position: -960px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mne {
+
+  background-position: -960px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mnm {
+
+  background-position: -960px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mnt {
+
+  background-position: -960px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mnx {
+
+  background-position: -960px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mny {
+
+  background-position: -960px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mnz {
+
+  background-position: -960px -900px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mobi {
+
+  background-position: 0px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mod {
+
+  background-position: -30px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-moin {
+
+  background-position: -60px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mojo {
+
+  background-position: -90px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mona {
+
+  background-position: -120px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-moneta {
+
+  background-position: -150px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-money {
+
+  background-position: -180px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-moon {
+
+  background-position: -210px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-moond {
+
+  background-position: -240px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-moto {
+
+  background-position: -270px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mpro {
+
+  background-position: -300px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mrp {
+
+  background-position: -330px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mrs {
+
+  background-position: -360px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mrsa {
+
+  background-position: -390px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mrt {
+
+  background-position: -420px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mrv {
+
+  background-position: -450px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mry {
+
+  background-position: -1290px -118px;
+  width: 30px;
+  height: 23px;
+}
+.icon-msc {
+
+  background-position: -510px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-msp {
+
+  background-position: -540px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-msr {
+
+  background-position: -570px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mst {
+
+  background-position: -600px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mt {
+
+  background-position: -630px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mth {
+
+  background-position: -660px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mtk {
+
+  background-position: -690px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mtl {
+
+  background-position: -720px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mtlm3 {
+
+  background-position: -750px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mtn {
+
+  background-position: -780px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mtr {
+
+  background-position: -810px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mtx {
+
+  background-position: -840px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mudra {
+
+  background-position: -870px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mue {
+
+  background-position: -900px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-music {
+
+  background-position: -930px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-muu {
+
+  background-position: -960px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mwc {
+
+  background-position: -990px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mxt {
+
+  background-position: -990px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-myb {
+
+  background-position: -990px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-myc {
+
+  background-position: -990px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-myst-1 {
+
+  background-position: -990px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-myst {
+
+  background-position: -990px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-mzc {
+
+  background-position: -990px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-n7 {
+
+  background-position: -990px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-namo {
+
+  background-position: -990px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nan {
+
+  background-position: -990px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nanas {
+
+  background-position: -990px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nas2 {
+
+  background-position: -990px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-naut {
+
+  background-position: -990px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nav {
+
+  background-position: -990px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nbit {
+
+  background-position: -990px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nbl {
+
+  background-position: -990px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nbt {
+
+  background-position: -990px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ndc {
+
+  background-position: -990px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ndoge {
+
+  background-position: -990px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nebl {
+
+  background-position: -990px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nebu {
+
+  background-position: -990px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nec {
+
+  background-position: -990px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nef {
+
+  background-position: -990px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-neo {
+
+  background-position: -990px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-neog {
+
+  background-position: -990px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-neos {
+
+  background-position: -990px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-net-1 {
+
+  background-position: -990px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-net {
+
+  background-position: -990px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-netc {
+
+  background-position: -990px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-netko {
+
+  background-position: -990px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-neu {
+
+  background-position: -990px -900px;
+  width: 30px;
+  height: 30px;
+}
+.icon-neva {
+
+  background-position: -990px -930px;
+  width: 30px;
+  height: 30px;
+}
+.icon-newb {
+
+  background-position: 0px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nic {
+
+  background-position: -30px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nice {
+
+  background-position: -60px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nimfa {
+
+  background-position: -90px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nio {
+
+  background-position: -120px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nka {
+
+  background-position: -150px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nkc {
+
+  background-position: -180px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nkt {
+
+  background-position: -210px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nlc {
+
+  background-position: -240px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nlc2 {
+
+  background-position: -270px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nlg {
+
+  background-position: -300px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nmb {
+
+  background-position: -330px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nmc {
+
+  background-position: -360px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nmr {
+
+  background-position: -390px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nobl {
+
+  background-position: -420px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-node {
+
+  background-position: -450px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-noo {
+
+  background-position: -480px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-note {
+
+  background-position: -510px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-npc {
+
+  background-position: -540px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-npx {
+
+  background-position: -570px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nrb {
+
+  background-position: -600px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nrc {
+
+  background-position: -630px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nrn {
+
+  background-position: -660px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nrs {
+
+  background-position: -690px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nsr {
+
+  background-position: -720px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ntc {
+
+  background-position: -750px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ntcc {
+
+  background-position: -780px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ntm {
+
+  background-position: -810px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nto {
+
+  background-position: -840px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ntrn {
+
+  background-position: -870px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nubis {
+
+  background-position: -900px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nuke {
+
+  background-position: -930px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nuls {
+
+  background-position: -960px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-num {
+
+  background-position: -990px -972px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nvc {
+
+  background-position: -1020px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nvst {
+
+  background-position: -1020px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nxc {
+
+  background-position: -1020px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nxe {
+
+  background-position: -1020px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nxs {
+
+  background-position: -1020px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nxt {
+
+  background-position: -1020px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nxti {
+
+  background-position: -1020px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nxtty {
+
+  background-position: -1020px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nyan {
+
+  background-position: -1110px -1242px;
+  width: 30px;
+  height: 27px;
+}
+.icon-nyc {
+
+  background-position: -1020px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-nzc {
+
+  background-position: -1020px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-oax {
+
+  background-position: -1020px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-obits {
+
+  background-position: -1020px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-obs {
+
+  background-position: -1020px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-oc {
+
+  background-position: -1020px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ocl {
+
+  background-position: -1020px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-octo {
+
+  background-position: -1020px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-odmc {
+
+  background-position: -1020px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-odn {
+
+  background-position: -1020px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-odnt {
+
+  background-position: -1020px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ok {
+
+  background-position: -1020px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-oldsf {
+
+  background-position: -1020px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-olv {
+
+  background-position: -1020px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-olymp {
+
+  background-position: -1020px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-oma {
+
+  background-position: -1020px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-omc {
+
+  background-position: -1020px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-omg {
+
+  background-position: -1020px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-omni {
+
+  background-position: -1020px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-onion {
+
+  background-position: -1020px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-onx {
+
+  background-position: -1020px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-opal {
+
+  background-position: -1020px -900px;
+  width: 30px;
+  height: 30px;
+}
+.icon-opes {
+
+  background-position: -1020px -930px;
+  width: 30px;
+  height: 30px;
+}
+.icon-opp {
+
+  background-position: -1020px -960px;
+  width: 30px;
+  height: 30px;
+}
+.icon-opt {
+
+  background-position: 0px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-option {
+
+  background-position: -30px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-orb {
+
+  background-position: -1290px -95px;
+  width: 30px;
+  height: 23px;
+}
+.icon-orly {
+
+  background-position: -90px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-orme {
+
+  background-position: -120px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-oro {
+
+  background-position: -150px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-oroc {
+
+  background-position: -180px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-os76 {
+
+  background-position: -210px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-osc {
+
+  background-position: -240px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-otn {
+
+  background-position: -270px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-otx {
+
+  background-position: -300px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-oxy {
+
+  background-position: -330px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pac {
+
+  background-position: -360px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pak {
+
+  background-position: -390px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-para {
+
+  background-position: -420px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-part {
+
+  background-position: -450px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pasc {
+
+  background-position: -480px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pasl {
+
+  background-position: -510px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pay {
+
+  background-position: -540px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-payp {
+
+  background-position: -570px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pbc {
+
+  background-position: -600px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pbl {
+
+  background-position: -630px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pbt {
+
+  background-position: -660px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pcm {
+
+  background-position: -690px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pcs {
+
+  background-position: -720px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pdc {
+
+  background-position: -750px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pec {
+
+  background-position: -780px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pen {
+
+  background-position: -810px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pepecash {
+
+  background-position: -840px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pex {
+
+  background-position: -870px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pfr {
+
+  background-position: -900px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pgl {
+
+  background-position: -930px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-phr-1 {
+
+  background-position: -960px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-phr {
+
+  background-position: -990px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-phs {
+
+  background-position: -1020px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pie {
+
+  background-position: -1050px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-piggy {
+
+  background-position: -840px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-ping {
+
+  background-position: -1050px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pink {
+
+  background-position: -1050px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pinkx {
+
+  background-position: -1050px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pio {
+
+  background-position: -1050px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pirl {
+
+  background-position: -1050px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pivx {
+
+  background-position: -1050px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pix {
+
+  background-position: -1050px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pizza {
+
+  background-position: -1050px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pkb {
+
+  background-position: -1050px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pkt {
+
+  background-position: -1050px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-planet {
+
+  background-position: -1050px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-play {
+
+  background-position: -1050px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-plbt {
+
+  background-position: -1050px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-plm {
+
+  background-position: -1050px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-plnc {
+
+  background-position: -1050px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-plr {
+
+  background-position: -1050px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-plu {
+
+  background-position: -1050px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-plx {
+
+  background-position: -1050px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pnc {
+
+  background-position: -1050px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pnd {
+
+  background-position: -1050px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pnk {
+
+  background-position: -1050px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-poe {
+
+  background-position: -1050px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-points {
+
+  background-position: -1050px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-poll {
+
+  background-position: -1050px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-poly {
+
+  background-position: -1050px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pos {
+
+  background-position: -1050px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-post {
+
+  background-position: -1050px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-posw {
+
+  background-position: -1050px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pot {
+
+  background-position: -1050px -900px;
+  width: 30px;
+  height: 30px;
+}
+.icon-powr {
+
+  background-position: -1050px -930px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ppc {
+
+  background-position: -1050px -960px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ppp {
+
+  background-position: -1050px -990px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ppt {
+
+  background-position: 0px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ppy {
+
+  background-position: -30px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pqt {
+
+  background-position: -60px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-prc {
+
+  background-position: -90px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pre-1 {
+
+  background-position: -120px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pre {
+
+  background-position: -150px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pres {
+
+  background-position: -180px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-prg {
+
+  background-position: -210px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-prime {
+
+  background-position: -240px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-prix {
+
+  background-position: -270px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-prm {
+
+  background-position: -300px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pro {
+
+  background-position: -330px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-proc {
+
+  background-position: -360px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-prp {
+
+  background-position: -390px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-prx {
+
+  background-position: -420px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-psb {
+
+  background-position: -450px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pseud {
+
+  background-position: -480px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-psi {
+
+  background-position: -510px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pst {
+
+  background-position: -540px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-psy {
+
+  background-position: -570px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pta {
+
+  background-position: -600px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ptc {
+
+  background-position: -630px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ptoy {
+
+  background-position: -660px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pts-1 {
+
+  background-position: -690px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pulse {
+
+  background-position: -720px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pupa {
+
+  background-position: -750px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pura {
+
+  background-position: -780px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pure {
+
+  background-position: -810px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-put {
+
+  background-position: -840px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pwr {
+
+  background-position: -870px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-px {
+
+  background-position: -900px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pxc {
+
+  background-position: -930px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pxi {
+
+  background-position: -960px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pxl {
+
+  background-position: -990px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pyc {
+
+  background-position: -1020px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pyn {
+
+  background-position: -1050px -1032px;
+  width: 30px;
+  height: 30px;
+}
+.icon-pzm {
+
+  background-position: -1080px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qash {
+
+  background-position: -1080px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qau {
+
+  background-position: -1080px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qbc {
+
+  background-position: -1080px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qbk {
+
+  background-position: -1080px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qbt {
+
+  background-position: -1080px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qcn {
+
+  background-position: -1080px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qora {
+
+  background-position: -1200px -1242px;
+  width: 30px;
+  height: 25px;
+}
+.icon-qrk {
+
+  background-position: -1080px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qrl {
+
+  background-position: -1080px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qslv {
+
+  background-position: -1080px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qsp {
+
+  background-position: -1080px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qtl {
+
+  background-position: -1080px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qtum {
+
+  background-position: -1080px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qtz {
+
+  background-position: -1080px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qvt {
+
+  background-position: -1080px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-qwark {
+
+  background-position: -1080px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-r {
+
+  background-position: -1080px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-radi {
+
+  background-position: -1080px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rads {
+
+  background-position: -1080px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rain {
+
+  background-position: -1080px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ratio {
+
+  background-position: -1080px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rbies {
+
+  background-position: -1080px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rbit {
+
+  background-position: -1080px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rbr {
+
+  background-position: -1080px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rbt {
+
+  background-position: -1080px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rbx {
+
+  background-position: -1080px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rby {
+
+  background-position: -1080px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rc {
+
+  background-position: -1080px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rcc {
+
+  background-position: -1080px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rcn {
+
+  background-position: -1080px -900px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rcx {
+
+  background-position: -1080px -930px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rdd {
+
+  background-position: -1080px -960px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rdn-1 {
+
+  background-position: -1080px -990px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rdn {
+
+  background-position: -1080px -1020px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rea {
+
+  background-position: 0px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-real {
+
+  background-position: -30px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rebl {
+
+  background-position: -60px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rec {
+
+  background-position: -90px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-red {
+
+  background-position: -120px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ree {
+
+  background-position: -150px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rep {
+
+  background-position: -180px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-req {
+
+  background-position: -210px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rev {
+
+  background-position: -240px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rex {
+
+  background-position: -270px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rgc {
+
+  background-position: -300px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rhea {
+
+  background-position: -330px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ric {
+
+  background-position: -360px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rice {
+
+  background-position: -390px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ride {
+
+  background-position: -420px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ring {
+
+  background-position: -450px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ripo {
+
+  background-position: -480px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ript {
+
+  background-position: -510px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rise {
+
+  background-position: -540px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-riya {
+
+  background-position: -570px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rkc {
+
+  background-position: -600px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rlc {
+
+  background-position: -630px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rms {
+
+  background-position: -660px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rnc {
+
+  background-position: -690px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rndr {
+
+  background-position: -720px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rns {
+
+  background-position: -750px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rock {
+
+  background-position: -780px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rok {
+
+  background-position: -810px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-root {
+
+  background-position: -840px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-roots {
+
+  background-position: -870px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-round {
+
+  background-position: -900px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-royal {
+
+  background-position: -930px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rpc {
+
+  background-position: -960px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rpx {
+
+  background-position: -990px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rrt {
+
+  background-position: -1020px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rt2 {
+
+  background-position: -810px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-rubit {
+
+  background-position: -1080px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rup {
+
+  background-position: -1110px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rupx {
+
+  background-position: -1110px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rust {
+
+  background-position: -1110px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rustbits {
+
+  background-position: -1110px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rvt {
+
+  background-position: -1110px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ryc {
+
+  background-position: -90px -32px;
+  width: 30px;
+  height: 32px;
+}
+.icon-rycn {
+
+  background-position: -1110px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ryz {
+
+  background-position: -1110px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-rzr {
+
+  background-position: -1110px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-s8c {
+
+  background-position: -1110px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-safex {
+
+  background-position: -1110px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sak {
+
+  background-position: -1110px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-salt {
+
+  background-position: -1110px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-san {
+
+  background-position: -1110px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sand {
+
+  background-position: -1110px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sandg {
+
+  background-position: -1110px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sar {
+
+  background-position: -1110px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sat2 {
+
+  background-position: -1050px -1242px;
+  width: 30px;
+  height: 27px;
+}
+.icon-sbc {
+
+  background-position: -1110px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sbd {
+
+  background-position: -1110px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sc {
+
+  background-position: -1110px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-scash {
+
+  background-position: -1110px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-scl {
+
+  background-position: -1110px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-scn {
+
+  background-position: -1110px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-scor {
+
+  background-position: -1110px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-score {
+
+  background-position: -1110px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-scot {
+
+  background-position: -1110px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-scr {
+
+  background-position: -1110px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-scrpt {
+
+  background-position: -1110px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-scrt {
+
+  background-position: -1110px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sct-1 {
+
+  background-position: -1110px -900px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sct {
+
+  background-position: -1110px -930px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sdao {
+
+  background-position: -1110px -960px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sdc {
+
+  background-position: -1110px -990px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sdp {
+
+  background-position: -1110px -1020px;
+  width: 30px;
+  height: 30px;
+}
+.icon-seeds {
+
+  background-position: -1110px -1050px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sel {
+
+  background-position: 0px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sen {
+
+  background-position: -30px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sense {
+
+  background-position: -60px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-seq {
+
+  background-position: -90px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-seth {
+
+  background-position: -120px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sfc {
+
+  background-position: -150px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sfe {
+
+  background-position: -180px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sfr {
+
+  background-position: -210px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sh {
+
+  background-position: -240px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-shade {
+
+  background-position: -270px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-shift {
+
+  background-position: -300px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-shld {
+
+  background-position: -330px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-shorty {
+
+  background-position: -360px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-shp {
+
+  background-position: -390px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sib {
+
+  background-position: -420px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sift {
+
+  background-position: -450px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sigt {
+
+  background-position: -480px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sigu {
+
+  background-position: -510px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-silk {
+
+  background-position: -960px -1242px;
+  width: 30px;
+  height: 28px;
+}
+.icon-sjcx {
+
+  background-position: -570px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-skb {
+
+  background-position: -600px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-skin {
+
+  background-position: -630px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-skr {
+
+  background-position: -660px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sky {
+
+  background-position: -690px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-slg {
+
+  background-position: -720px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sling {
+
+  background-position: 0px -37px;
+  width: 30px;
+  height: 33px;
+}
+.icon-slm {
+
+  background-position: -780px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-slr {
+
+  background-position: -810px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sls {
+
+  background-position: -840px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-smac {
+
+  background-position: -870px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-smart {
+
+  background-position: -900px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-smc {
+
+  background-position: -930px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-smf {
+
+  background-position: -960px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-smly {
+
+  background-position: -990px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-smnx {
+
+  background-position: -1020px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-smsr {
+
+  background-position: -1050px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-smt {
+
+  background-position: -1080px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-snc {
+
+  background-position: -1110px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-snd {
+
+  background-position: -1140px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sngls {
+
+  background-position: -1140px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-snk {
+
+  background-position: -1140px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-snm {
+
+  background-position: -1140px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-snov {
+
+  background-position: -1140px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-snrg {
+
+  background-position: -1140px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sns {
+
+  background-position: -1140px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-snt {
+
+  background-position: -1140px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-soar {
+
+  background-position: -1140px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-socc {
+
+  background-position: -1140px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-soil {
+
+  background-position: -1140px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-soj {
+
+  background-position: -1140px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sole {
+
+  background-position: -1140px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-song {
+
+  background-position: -1140px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-soon {
+
+  background-position: -1140px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-soul {
+
+  background-position: -1140px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sp {
+
+  background-position: -1140px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-spa {
+
+  background-position: -1140px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-space {
+
+  background-position: -1140px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-spank {
+
+  background-position: -1140px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-spc {
+
+  background-position: -1140px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-spec {
+
+  background-position: -1140px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sphr {
+
+  background-position: -1140px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sphtx {
+
+  background-position: -1140px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-spktr {
+
+  background-position: -1140px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-spm {
+
+  background-position: -1140px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-spn {
+
+  background-position: -1140px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sport {
+
+  background-position: -1140px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-spots {
+
+  background-position: -1140px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-spr {
+
+  background-position: -1140px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sprts {
+
+  background-position: -1140px -900px;
+  width: 30px;
+  height: 30px;
+}
+.icon-spt {
+
+  background-position: -1290px -72px;
+  width: 30px;
+  height: 23px;
+}
+.icon-spx {
+
+  background-position: -1140px -960px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sql {
+
+  background-position: -1290px -218px;
+  width: 30px;
+  height: 12px;
+}
+.icon-sqp {
+
+  background-position: -1140px -1020px;
+  width: 30px;
+  height: 30px;
+}
+.icon-src-1 {
+
+  background-position: -1140px -1050px;
+  width: 30px;
+  height: 30px;
+}
+.icon-src {
+
+  background-position: -1080px -1242px;
+  width: 30px;
+  height: 27px;
+}
+.icon-srn {
+
+  background-position: 0px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-srt {
+
+  background-position: -30px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ssd {
+
+  background-position: -60px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sstc {
+
+  background-position: -90px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ssv {
+
+  background-position: -120px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-st {
+
+  background-position: -150px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sta-1 {
+
+  background-position: -180px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sta {
+
+  background-position: -210px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-stalin {
+
+  background-position: -240px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-star-1 {
+
+  background-position: -270px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-star {
+
+  background-position: -300px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-start {
+
+  background-position: -60px 0px;
+  width: 30px;
+  height: 34px;
+}
+.icon-stc {
+
+  background-position: -360px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-stcn {
+
+  background-position: -390px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-steem {
+
+  background-position: -420px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-steps {
+
+  background-position: -450px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-stex {
+
+  background-position: -480px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sthr {
+
+  background-position: -510px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sto {
+
+  background-position: -540px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-stockbet {
+
+  background-position: -570px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-storj {
+
+  background-position: -600px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-storm {
+
+  background-position: -630px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-stp {
+
+  background-position: -660px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-str-1 {
+
+  background-position: -630px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-strat {
+
+  background-position: -720px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sts {
+
+  background-position: -750px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-stu {
+
+  background-position: -780px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-stv {
+
+  background-position: -810px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-stx {
+
+  background-position: -840px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sub-1 {
+
+  background-position: -870px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sub {
+
+  background-position: -900px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sumo {
+
+  background-position: -930px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sup {
+
+  background-position: -960px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-super {
+
+  background-position: -990px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sur {
+
+  background-position: -1020px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-swarm {
+
+  background-position: -1050px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sweet {
+
+  background-position: -1080px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-swift {
+
+  background-position: -1110px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-swing {
+
+  background-position: -1140px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-swt {
+
+  background-position: -1170px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sxc {
+
+  background-position: -1170px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-syc {
+
+  background-position: -1170px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sync {
+
+  background-position: -1170px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-synx {
+
+  background-position: -1170px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-sys {
+
+  background-position: -1170px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-taas {
+
+  background-position: -1170px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tab {
+
+  background-position: -1170px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tag {
+
+  background-position: -1170px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tagr {
+
+  background-position: -1170px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-taj {
+
+  background-position: -1170px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tak {
+
+  background-position: -1170px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tam {
+
+  background-position: -1170px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tap {
+
+  background-position: -1170px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tat {
+
+  background-position: -1170px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tau {
+
+  background-position: -1170px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tbcx {
+
+  background-position: -600px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-tcr {
+
+  background-position: -1170px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tdfb {
+
+  background-position: -1170px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-team {
+
+  background-position: -1170px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tec {
+
+  background-position: -1170px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tech {
+
+  background-position: -1170px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tek {
+
+  background-position: -1260px -1242px;
+  width: 30px;
+  height: 24px;
+}
+.icon-tell {
+
+  background-position: -1170px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tennet {
+
+  background-position: -1170px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ter {
+
+  background-position: -1170px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tes {
+
+  background-position: -1170px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tesla {
+
+  background-position: -1170px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tfl {
+
+  background-position: -1170px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tgc {
+
+  background-position: -1170px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-thc {
+
+  background-position: -1170px -900px;
+  width: 30px;
+  height: 30px;
+}
+.icon-thnx {
+
+  background-position: -1170px -930px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ths {
+
+  background-position: -1170px -960px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tia {
+
+  background-position: -1170px -990px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tic {
+
+  background-position: -1170px -1020px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tie {
+
+  background-position: -1170px -1050px;
+  width: 30px;
+  height: 30px;
+}
+.icon-time {
+
+  background-position: -1170px -1080px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tio {
+
+  background-position: -1170px -1110px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tit {
+
+  background-position: -990px -1242px;
+  width: 30px;
+  height: 28px;
+}
+.icon-tix {
+
+  background-position: -30px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tkn-1 {
+
+  background-position: -60px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tkn {
+
+  background-position: -90px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tkr {
+
+  background-position: -120px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tks {
+
+  background-position: -150px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tkt {
+
+  background-position: -180px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tmc {
+
+  background-position: -210px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tme {
+
+  background-position: -240px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tmt {
+
+  background-position: -270px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tnt {
+
+  background-position: -300px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-toa {
+
+  background-position: -330px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-today {
+
+  background-position: -360px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tom {
+
+  background-position: -390px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tor {
+
+  background-position: -420px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tpay {
+
+  background-position: -450px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tpg {
+
+  background-position: -480px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tra {
+
+  background-position: -510px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-trc {
+
+  background-position: -540px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-trct {
+
+  background-position: -570px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tri {
+
+  background-position: -600px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tria {
+
+  background-position: -630px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tribe {
+
+  background-position: -660px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-trick {
+
+  background-position: -690px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-trig {
+
+  background-position: -720px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-trip {
+
+  background-position: -750px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-trk {
+
+  background-position: -780px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tron {
+
+  background-position: -810px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-trst {
+
+  background-position: -840px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-trump {
+
+  background-position: -870px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-trust {
+
+  background-position: -900px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-trv {
+
+  background-position: -930px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-trx {
+
+  background-position: -960px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tse {
+
+  background-position: -990px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ttc {
+
+  background-position: -1170px -1242px;
+  width: 30px;
+  height: 26px;
+}
+.icon-ttt {
+
+  background-position: -1050px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tur {
+
+  background-position: -1080px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-twist {
+
+  background-position: -1110px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-twlv {
+
+  background-position: -1140px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tx {
+
+  background-position: -1170px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-tzc {
+
+  background-position: -1200px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-u {
+
+  background-position: -1200px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-uaec {
+
+  background-position: -1200px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ubiq {
+
+  background-position: -1200px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ubq {
+
+  background-position: -1200px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-uet {
+
+  background-position: -1200px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ufo {
+
+  background-position: -1200px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ufr {
+
+  background-position: -1200px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ugt {
+
+  background-position: -1200px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-uis {
+
+  background-position: -1200px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ukg {
+
+  background-position: -1200px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ultc {
+
+  background-position: -1200px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-umc {
+
+  background-position: -1200px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-unat {
+
+  background-position: -1200px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-unb {
+
+  background-position: -1200px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-unc {
+
+  background-position: -1200px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-unf {
+
+  background-position: -1200px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-uni {
+
+  background-position: -1200px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-unify {
+
+  background-position: -1200px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-uniq {
+
+  background-position: -1200px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-unit {
+
+  background-position: -1200px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-units {
+
+  background-position: -1200px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-unity {
+
+  background-position: -1200px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-uno {
+
+  background-position: -1200px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-up {
+
+  background-position: -1200px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-uqc {
+
+  background-position: -1200px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ur {
+
+  background-position: -1200px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-uro {
+
+  background-position: -1200px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-usc {
+
+  background-position: -1200px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-usde {
+
+  background-position: -1200px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-usdt {
+
+  background-position: -1200px -900px;
+  width: 30px;
+  height: 30px;
+}
+.icon-utc {
+
+  background-position: -1200px -930px;
+  width: 30px;
+  height: 30px;
+}
+.icon-uth {
+
+  background-position: -1200px -960px;
+  width: 30px;
+  height: 30px;
+}
+.icon-util {
+
+  background-position: -1200px -990px;
+  width: 30px;
+  height: 30px;
+}
+.icon-utk {
+
+  background-position: -1200px -1020px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vapor {
+
+  background-position: -1200px -1050px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vdo {
+
+  background-position: -1140px -1242px;
+  width: 30px;
+  height: 26px;
+}
+.icon-vec2 {
+
+  background-position: -1200px -1110px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vee {
+
+  background-position: -1200px -1140px;
+  width: 30px;
+  height: 30px;
+}
+.icon-veg {
+
+  background-position: 0px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ven {
+
+  background-position: -30px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-veri {
+
+  background-position: -60px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-versa {
+
+  background-position: -90px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-via {
+
+  background-position: -120px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vib {
+
+  background-position: -150px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vibe {
+
+  background-position: -180px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vidz {
+
+  background-position: -210px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vior {
+
+  background-position: -240px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vip {
+
+  background-position: -270px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-viral {
+
+  background-position: -300px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-visio {
+
+  background-position: -330px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-viu {
+
+  background-position: -360px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vivo {
+
+  background-position: -390px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vlt {
+
+  background-position: -420px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vltc {
+
+  background-position: -450px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vmc {
+
+  background-position: -480px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vnt {
+
+  background-position: -510px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-voise {
+
+  background-position: -540px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-volt {
+
+  background-position: -570px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-voot {
+
+  background-position: -120px 0px;
+  width: 30px;
+  height: 31px;
+}
+.icon-vot {
+
+  background-position: -630px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vox {
+
+  background-position: -660px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-voya {
+
+  background-position: -690px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vprc {
+
+  background-position: -720px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vrc {
+
+  background-position: -750px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vrm {
+
+  background-position: -780px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vrp-1 {
+
+  background-position: -810px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vrs {
+
+  background-position: -1290px -163px;
+  width: 30px;
+  height: 22px;
+}
+.icon-vsl {
+
+  background-position: -870px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vsx {
+
+  background-position: -900px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vta {
+
+  background-position: -930px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vtc {
+
+  background-position: -960px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vtr {
+
+  background-position: -990px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vtx {
+
+  background-position: -1020px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vty {
+
+  background-position: -1050px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vuc {
+
+  background-position: -1080px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-vzt {
+
+  background-position: -1110px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wabi {
+
+  background-position: -1140px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wan {
+
+  background-position: -1170px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wand {
+
+  background-position: -1290px 0px;
+  width: 30px;
+  height: 24px;
+}
+.icon-warp {
+
+  background-position: -1230px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wash {
+
+  background-position: -1230px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-waves {
+
+  background-position: -1230px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wax {
+
+  background-position: -1230px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-way {
+
+  background-position: -1230px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wbb {
+
+  background-position: -1230px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wbtc {
+
+  background-position: -1230px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wc {
+
+  background-position: -1230px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wct {
+
+  background-position: -1230px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wdc {
+
+  background-position: -1230px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wealth {
+
+  background-position: -1230px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-web {
+
+  background-position: -1230px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wex {
+
+  background-position: -1230px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wgc {
+
+  background-position: -1230px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wgo {
+
+  background-position: -1230px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wgr {
+
+  background-position: -1230px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-whl {
+
+  background-position: -1230px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wic {
+
+  background-position: -1230px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wild {
+
+  background-position: -1230px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wine {
+
+  background-position: -1230px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wings {
+
+  background-position: -1230px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wink {
+
+  background-position: -1230px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wisc {
+
+  background-position: -1230px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wish {
+
+  background-position: -1230px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wiz {
+
+  background-position: -1230px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wmc {
+
+  background-position: -1230px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wnet {
+
+  background-position: -1230px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wolf {
+
+  background-position: -1230px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wolk {
+
+  background-position: -1230px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-women {
+
+  background-position: -1230px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wop {
+
+  background-position: -1230px -900px;
+  width: 30px;
+  height: 30px;
+}
+.icon-worm {
+
+  background-position: -1230px -930px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wpr {
+
+  background-position: -1230px -960px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wrc-1 {
+
+  background-position: -1230px -990px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wrc {
+
+  background-position: -1230px -1020px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wrt {
+
+  background-position: -1230px -1050px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wsc {
+
+  background-position: -1230px -1080px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wsx {
+
+  background-position: -1230px -1110px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wtc {
+
+  background-position: -1230px -1140px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wtt {
+
+  background-position: -1230px -1170px;
+  width: 30px;
+  height: 30px;
+}
+.icon-wyr {
+
+  background-position: 0px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-x2 {
+
+  background-position: -30px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xai-1 {
+
+  background-position: -60px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xai {
+
+  background-position: -90px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xas {
+
+  background-position: -120px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xau {
+
+  background-position: -150px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xaur {
+
+  background-position: -180px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xbc {
+
+  background-position: -210px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xbl {
+
+  background-position: -240px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xbot {
+
+  background-position: -270px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xbs {
+
+  background-position: -300px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xbts {
+
+  background-position: -330px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xby {
+
+  background-position: -360px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xc {
+
+  background-position: -390px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xcash {
+
+  background-position: -420px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xce {
+
+  background-position: -450px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xci {
+
+  background-position: -480px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xcj {
+
+  background-position: -510px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xcn {
+
+  background-position: -540px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xco {
+
+  background-position: -570px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xcp {
+
+  background-position: -600px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xcr {
+
+  background-position: -630px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xcre {
+
+  background-position: -660px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xcs {
+
+  background-position: -690px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xct {
+
+  background-position: -720px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xcxt {
+
+  background-position: -750px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xdb {
+
+  background-position: -780px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xde2 {
+
+  background-position: -810px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xdn {
+
+  background-position: -840px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xdp {
+
+  background-position: -870px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xdq {
+
+  background-position: -900px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xel {
+
+  background-position: -930px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xem {
+
+  background-position: -960px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xen {
+
+  background-position: -990px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xfc {
+
+  background-position: -1020px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xg {
+
+  background-position: -1050px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xgb {
+
+  background-position: -1080px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xgox {
+
+  background-position: -1110px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xgr {
+
+  background-position: -1140px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xhi {
+
+  background-position: -1170px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xid-1 {
+
+  background-position: -1200px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xid {
+
+  background-position: -1230px -1212px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xin {
+
+  background-position: -1260px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xios {
+
+  background-position: -1260px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xjo {
+
+  background-position: -1260px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xlb {
+
+  background-position: -1260px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xlc {
+
+  background-position: -1260px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xlm {
+
+  background-position: -1260px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xlr {
+
+  background-position: -1260px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xmcc {
+
+  background-position: -1260px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xmg {
+
+  background-position: -1260px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xmr {
+
+  background-position: -1260px -270px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xms {
+
+  background-position: -1260px -300px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xmy {
+
+  background-position: -1260px -330px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xna {
+
+  background-position: -1260px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xnc-1 {
+
+  background-position: -1260px -390px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xnc {
+
+  background-position: -1260px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xng {
+
+  background-position: -1260px -450px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xnn {
+
+  background-position: -1260px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xnx {
+
+  background-position: -1260px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xp {
+
+  background-position: -1260px -540px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xpb {
+
+  background-position: -1260px -570px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xpd {
+
+  background-position: -1260px -600px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xph {
+
+  background-position: -1260px -630px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xpm {
+
+  background-position: -1260px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xpo {
+
+  background-position: -1260px -690px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xpoke {
+
+  background-position: -1260px -720px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xpro {
+
+  background-position: -1260px -750px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xps {
+
+  background-position: -1260px -780px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xptx {
+
+  background-position: -1260px -810px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xpy {
+
+  background-position: -1260px -840px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xqn {
+
+  background-position: -1260px -870px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xra {
+
+  background-position: -1260px -900px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xrb {
+
+  background-position: -1260px -930px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xre {
+
+  background-position: -1260px -960px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xred {
+
+  background-position: -1260px -990px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xrl {
+
+  background-position: -1260px -1020px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xrp {
+
+  background-position: -1260px -1050px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xsb {
+
+  background-position: -1260px -1080px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xseed {
+
+  background-position: -390px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-xsh {
+
+  background-position: -1260px -1140px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xsi {
+
+  background-position: -1260px -1170px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xsp {
+
+  background-position: -1260px -1200px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xspec {
+
+  background-position: 0px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xst {
+
+  background-position: -30px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xt {
+
+  background-position: -60px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xtc {
+
+  background-position: -90px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xtz {
+
+  background-position: -120px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xuc-1 {
+
+  background-position: -150px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xuc {
+
+  background-position: -180px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xup {
+
+  background-position: -210px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xvc {
+
+  background-position: -240px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xve {
+
+  background-position: -270px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xvg {
+
+  background-position: -300px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xvp {
+
+  background-position: -330px -1242px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xwc {
+
+  background-position: -1260px -1110px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xwt {
+
+  background-position: -1200px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xxx {
+
+  background-position: -840px -1182px;
+  width: 30px;
+  height: 30px;
+}
+.icon-xzc {
+
+  background-position: -1200px -1080px;
+  width: 30px;
+  height: 30px;
+}
+.icon-yac {
+
+  background-position: -1020px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-yay {
+
+  background-position: 0px -1152px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ybc {
+
+  background-position: -540px -1242px;
+  width: 30px;
+  height: 29px;
+}
+.icon-yes {
+
+  background-position: -1170px -660px;
+  width: 30px;
+  height: 30px;
+}
+.icon-ymc {
+
+  background-position: -1170px -480px;
+  width: 30px;
+  height: 30px;
+}
+.icon-yoc {
+
+  background-position: -690px -1122px;
+  width: 30px;
+  height: 30px;
+}
+.icon-yovi {
+
+  background-position: -1140px -1080px;
+  width: 30px;
+  height: 30px;
+}
+.icon-yoyow {
+
+  background-position: -1140px -990px;
+  width: 30px;
+  height: 30px;
+}
+.icon-z2 {
+
+  background-position: -1140px -930px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zab {
+
+  background-position: -540px -1092px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zbc {
+
+  background-position: -1110px -510px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zcc {
+
+  background-position: -1050px -1062px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zcl {
+
+  background-position: -1080px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zec {
+
+  background-position: -1050px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zecd {
+
+  background-position: -60px -1002px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zed {
+
+  background-position: -120px -62px;
+  width: 30px;
+  height: 31px;
+}
+.icon-zeit {
+
+  background-position: -480px -942px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zen {
+
+  background-position: -960px -210px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zeni {
+
+  background-position: -330px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zeph {
+
+  background-position: -300px -822px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zer {
+
+  background-position: -840px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zet {
+
+  background-position: -720px -90px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zet2 {
+
+  background-position: -420px -672px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zlq {
+
+  background-position: -630px -420px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zna {
+
+  background-position: -450px -552px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zne {
+
+  background-position: -540px -360px;
+  width: 30px;
+  height: 30px;
+}
+.icon-znt {
+
+  background-position: -120px -492px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zny {
+
+  background-position: -510px -240px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zoi {
+
+  background-position: -420px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zoom {
+
+  background-position: -420px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zrc-1 {
+
+  background-position: -300px -180px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zrc {
+
+  background-position: -270px -120px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zrx {
+
+  background-position: -270px -30px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zsc {
+
+  background-position: -240px -60px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zse {
+
+  background-position: -210px -150px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zur {
+
+  background-position: -180px -372px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zxt {
+
+  background-position: -240px 0px;
+  width: 30px;
+  height: 30px;
+}
+.icon-zyd {
+
+  background-position: -360px -1242px;
+  width: 30px;
+  height: 30px;
+}

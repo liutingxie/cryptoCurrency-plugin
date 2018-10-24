@@ -1,0 +1,252 @@
+/* Less Variables */
+a {
+  text-decoration: none;
+}
+.btn {
+  display: inline-block;
+  color: #ffffff;
+  background: #00a0d2;
+  height: 32px;
+  line-height: 32px;
+  padding: 0 20px !important;
+  cursor: pointer;
+  border-radius: 2px;
+  text-align: center;
+  font-weight: normal;
+  border: none;
+  box-shadow: 0 2px 0 #00799f;
+}
+.btn:hover {
+  color: #ffffff;
+  background-color: #06c4ff;
+  box-shadow: 0 2px 0 #00b3eb;
+}
+.btn:focus {
+  outline: none;
+  background-color: #06c4ff;
+  box-shadow: 0 2px 0 #00b3eb;
+  color: #ffffff;
+}
+.currency_container {
+  /* Currency UI */
+}
+.currency_container .currency_list h2 {
+  font: normal normal normal 14px/16px Arial serif;
+}
+.currency_container .tablenav {
+  margin-bottom: 20px;
+  height: 34px;
+}
+.currency_container .tablenav .currency-search-value {
+  float: left;
+  margin-right: 5px;
+}
+.currency_container .tablenav .currency-search-value label {
+  margin-right: 5px;
+}
+.currency_container .tablenav .currency-search-value input[type=search] {
+  height: 32px;
+}
+.currency_container .tablenav .currency-search-reset {
+  float: left;
+}
+.currency_container .currency-list-table {
+  width: 97%;
+  border-radius: 3px;
+  border: 1px solid #d7d7d7;
+  border-spacing: 0;
+  box-shadow: 0 0 1px #d7d7d7;
+  text-shadow: 1px 1px 0 #ffffff;
+}
+.currency_container .currency-list-table thead tr th {
+  padding: 20px;
+  font: normal normal normal 14px/16px Arial serif;
+  text-align: center;
+  border-bottom: 1px solid #d7d7d7;
+}
+.currency_container .currency-list-table thead tr th:first-child {
+  text-align: left;
+}
+.currency_container .currency-list-table tbody tr {
+  line-height: 50px;
+  height: 50px;
+}
+.currency_container .currency-list-table tbody tr:hover td {
+  background: #ffffff;
+}
+.currency_container .currency-list-table tbody tr .currency-empty-slider {
+  text-align: center !important;
+}
+.currency_container .currency-list-table tbody tr td {
+  border-left: 1px solid #d7d7d7;
+  border-bottom: 1px solid #d7d7d7;
+  border-top: 0 solid #ffffff;
+  background: linear-gradient(to bottom right, #f8f8f8, #f6f6f6);
+  vertical-align: middle;
+  text-align: center;
+  font: normal normal normal 14px/16px Arial serif;
+}
+.currency_container .currency-list-table tbody tr td:first-child {
+  padding-left: 20px;
+  text-align: left;
+  border-left: 0;
+}
+.currency_container .scroll-bar-placeholder {
+  height: 55px;
+  clear: both;
+}
+.currency_container .scroll-bottom {
+  position: fixed;
+  bottom: 0px;
+  background-color: white;
+  z-index: 999;
+  border-top: 1px solid #d7d7d7;
+  width: 100%;
+  padding: 10px 20px !important;
+  margin-left: -20px;
+}
+.currency_container .currency-action-btn-list {
+  margin-top: 20px;
+}
+.currency_container .currency-action-btn-list div {
+  float: left;
+  margin-right: 5px;
+}
+.currency_container .currency-action-btn-list .importing {
+  color: #ffffff;
+  background-color: #e85c33;
+  box-shadow: 0 2px 0 #d04118;
+}
+.currency_container .currency-action-btn-list .imported {
+  color: #ffffff;
+  background-color: #9acd32;
+  box-shadow: 0 2px 0 #7ba428;
+}
+.currency_container #currency-screen-options-form input[type=number] {
+  width: 50px;
+}
+.currency_add_container {
+  position: fixed;
+  top: 40%;
+  left: 30%;
+  width: 450px;
+  height: 110px;
+  margin: 0 auto;
+  border-radius: 3px;
+  background-color: #ffffff;
+  z-index: 9999992;
+  padding: 20px;
+}
+.currency_add_container h3 {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #d7d7d7;
+}
+.currency_add_container label {
+  margin-left: 10px;
+}
+.currency_add_container input[type=text] {
+  width: 150px;
+  margin-left: 10px;
+  vertical-align: middle;
+}
+.currency_add_container span {
+  margin-left: 20px;
+}
+.currency-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #252525;
+  z-index: 9999991;
+  opacity: 0.8;
+}
+.currency-importexportContainer {
+  position: fixed;
+  top: 5%;
+  left: 260px;
+  width: 900px;
+  height: 90%;
+  margin: 0 auto;
+  border-radius: 3px;
+  background-color: #ffffff;
+  z-index: 9999992;
+}
+.currency-importexportContainer .currency-export-form-container {
+  max-height: 270px;
+  overflow-y: auto;
+}
+.currency-importexportContainer .currency-remove-importexport {
+  padding: 10px 0 10px 20px;
+  border-bottom: 1px solid #d7d7d7;
+}
+.currency-importexportContainer .currency-remove-importexport span {
+  font-size: 24px;
+}
+.currency-importexportContainer .currency-remove-importexport .storm-remove-importexport-btn {
+  float: right;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.currency-importexportContainer .storm-lable-export {
+  padding: 10px 0 10px 20px;
+  border-bottom: 1px solid #d7d7d7;
+}
+.currency-importexportContainer .storm-lable-export span {
+  font-size: 24px;
+}
+.currency-importexportContainer .storm-export-btn {
+  padding: 10px 0 10px 20px;
+}
+.currency-importexportContainer .storm-export-btn .storm-export-presetslider-btn {
+  margin-left: 20px;
+}
+.currency-importexportContainer h3 {
+  padding-left: 30px;
+}
+.currency-importexportContainer .storm-improtContainer {
+  padding-top: 20px;
+}
+.currency-importexportContainer .storm-improtContainer input[type=file] {
+  border: 1px solid #d7d7d7;
+}
+.currency-importexportContainer .storm-improtContainer .storm-import-btn {
+  margin-left: 20px;
+  vertical-align: top;
+}
+.currency-importexportContainer table {
+  width: 100%;
+  padding: 0 30px 20px;
+  border-bottom: 1px solid #d7d7d7;
+}
+.currency-importexportContainer table thead tr th {
+  padding: 10px 0;
+}
+.currency-importexportContainer table thead tr th:first-child {
+  float: left;
+}
+.currency-importexportContainer table tbody tr {
+  height: 30px;
+  border-spacing: 0;
+}
+.currency-importexportContainer table tbody tr:nth-child(even) {
+  background-color: #d7d7d7;
+}
+.currency-importexportContainer table tbody tr td {
+  text-align: center;
+}
+.currency-importexportContainer table tbody tr td:first-child {
+  text-align: left;
+}
+.storm-importexport-overlay {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #252525;
+  z-index: 9999991;
+  opacity: 0.8;
+}

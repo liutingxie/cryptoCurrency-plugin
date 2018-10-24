@@ -1,0 +1,326 @@
+/* Less Variables */
+@text-color: #00a0d2;
+@white-color: #fff;
+@dark-color: #252525;
+@underline-color: #d7d7d7;
+@from-top-color: #f8f8f8;
+@from-bottom-color: #f6f6f6;
+@yellow-color: #e85c33;
+@green-color: #9acd32;
+
+a {
+	text-decoration: none;
+}
+
+.btn {
+	display: inline-block;
+	color: @white-color;
+	background: @text-color;
+	height: 32px;
+	line-height: 32px;
+	padding: 0 20px !important;
+	cursor: pointer;
+	border-radius: 2px;
+	text-align: center;
+	font-weight: normal;
+	border: none;
+	box-shadow: 0 2px 0 darken(@text-color, 10%);
+
+	&:hover {
+		color: @white-color;
+		background-color: lighten(@text-color, 10%);
+	 	box-shadow: 0 2px 0 lighten(@text-color, 5%);
+	}
+
+	&:focus {
+		outline: none;
+		background-color: lighten(@text-color, 10%);
+	 	box-shadow: 0 2px 0 lighten(@text-color, 5%);
+		color: @white-color;
+	}
+}
+
+.currency_container {
+
+	/* Currency UI */
+	.currency_list {
+		h2 {
+			font: normal normal normal 14px/16px Arial serif;
+		}
+	}
+
+	.tablenav {
+		margin-bottom: 20px;
+		height: 34px;
+
+		.currency-search-value {
+			float: left;
+			label {
+				margin-right: 5px;
+			}
+			input[type=search] {
+				height: 32px;
+			}
+			margin-right: 5px;
+		}
+
+		.currency-search-reset {
+			float: left;
+		}
+	}
+
+	.currency-list-table {
+		width: 97%;
+		border-radius: 3px;
+		border: 1px solid @underline-color;
+		border-spacing: 0;
+		box-shadow: 0 0 1px @underline-color;
+		text-shadow: 1px 1px 0 @white-color;
+
+		thead {
+			tr {
+				th {
+					padding: 20px;
+					font: normal normal normal 14px/16px Arial serif;
+					text-align: center;
+					border-bottom: 1px solid @underline-color;
+					&:first-child {
+						text-align: left;
+					}
+				}
+			}
+		}
+
+		tbody {
+			tr {
+				line-height: 50px;
+				height: 50px;
+
+				&:hover {
+					td {
+						background: @white-color;
+					}
+				}
+
+				.currency-empty-slider {
+					text-align: center !important;
+				}
+
+				td {
+					border-left: 1px solid @underline-color;
+					border-bottom: 1px solid @underline-color;
+					border-top: 0 solid @white-color;
+					background: linear-gradient(to bottom right, @from-top-color, @from-bottom-color);
+					vertical-align: middle;
+					text-align: center;
+					font: normal normal normal 14px/16px Arial serif;
+
+					&:first-child {
+						padding-left: 20px;
+						text-align: left;
+						border-left: 0;
+					}
+				}
+			}
+		}
+	}
+	.scroll-bar-placeholder {
+		height: 55px;
+		clear: both;
+	}
+
+	.scroll-bottom {
+		position: fixed;
+		bottom: 0px;
+		background-color: white;
+		z-index: 999;
+		border-top: 1px solid #d7d7d7;
+		width: 100%;
+		padding: 10px 20px !important;
+		margin-left: -20px;
+	}
+
+	.currency-action-btn-list {
+		margin-top: 20px;
+
+		div {
+			float: left;
+			margin-right: 5px;
+		}
+
+		.importing {
+			color: @white-color;
+			background-color: @yellow-color;
+			box-shadow: 0 2px 0 darken(@yellow-color, 10%);
+		}
+
+		.imported {
+			color: @white-color;
+			background-color: @green-color;
+			box-shadow: 0 2px 0 darken(@green-color, 10%);
+		}
+	}
+
+	#currency-screen-options-form {
+		input[type=number] {
+			width: 50px;
+		}
+	}
+}
+
+.currency_add_container {
+	position: fixed;
+	top: 40%;
+	left: 30%;
+	width: 450px;
+	height: 110px;
+	margin: 0 auto;
+	border-radius: 3px;
+	background-color: @white-color;
+	z-index: 9999992;
+	padding: 20px;
+
+	h3 {
+		padding-bottom: 10px;
+		border-bottom: 1px solid @underline-color;
+	}
+
+	label {
+		margin-left: 10px;
+	}
+
+	input[type=text] {
+		width: 150px;
+		margin-left: 10px;
+		vertical-align: middle;
+	}
+
+	span {
+		margin-left: 20px;
+	}
+}
+
+.currency-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: @dark-color;
+	z-index: 9999991;
+	opacity: 0.8;
+}
+
+.currency-importexportContainer {
+	position: fixed;
+	top: 5%;
+	left: 260px;
+	width: 900px;
+	height: 90%;
+	margin: 0 auto;
+	border-radius: 3px;
+	background-color: @white-color;
+	z-index: 9999992;
+
+	.currency-export-form-container {
+		max-height: 270px;
+		overflow-y: auto;
+	}
+	.currency-remove-importexport {
+		padding: 10px 0 10px 20px;
+		border-bottom: 1px solid @underline-color;
+
+		span {
+			font-size: 24px;
+		}
+
+		.storm-remove-importexport-btn {
+			float: right;
+			margin-right: 10px;
+			cursor: pointer;
+		}
+	}
+
+	.storm-lable-export {
+		padding: 10px 0 10px 20px;
+		border-bottom: 1px solid @underline-color;
+
+		span {
+			font-size: 24px;
+		}
+	}
+
+	.storm-export-btn {
+		padding: 10px 0 10px 20px;
+
+		.storm-export-presetslider-btn {
+			margin-left: 20px;
+		}
+	}
+
+	h3 {
+		padding-left: 30px;
+	}
+
+	.storm-improtContainer {
+		padding-top: 20px;
+
+		input[type=file] {
+			border: 1px solid @underline-color;
+		}
+
+		.storm-import-btn {
+			margin-left: 20px;
+   	 		vertical-align: top;
+		}
+	}
+
+	table {
+		width: 100%;
+		padding: 0 30px 20px;
+		border-bottom: 1px solid @underline-color;
+
+
+		thead {
+			tr {
+				th {
+    				padding: 10px 0;
+					&:first-child {
+						float: left;
+					}
+				}
+			}
+		}
+
+		tbody {
+			tr {
+				height: 30px;
+				border-spacing: 0;
+
+				&:nth-child(even) {
+					background-color: @underline-color;
+				}
+
+
+				td {
+					text-align: center;
+					&:first-child {
+						text-align: left;
+					}
+				}
+			}
+		}
+	}
+}
+
+.storm-importexport-overlay {
+	display: block;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: @dark-color;
+	z-index: 9999991;
+	opacity: 0.8;
+}
